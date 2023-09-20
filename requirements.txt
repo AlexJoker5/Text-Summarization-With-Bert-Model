@@ -4,3 +4,4 @@ pandas==1.5.3
 streamlit==1.19.0
 tensorflow==2.13.0
 transformers==4.33.2
+summarizer==1.0.4
